@@ -1,0 +1,88 @@
+body{
+	background-image: url('../img/backImg.jpg');
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+h1{
+	text-align: center;
+}
+#imgs {
+	float: left;
+	border-radius: 10px;
+	margin-right: 30px;
+	margin-left: 50px;
+	margin-bottom: 50px;
+
+}
+#homePage{
+	text-align: center;
+	font-size: 25px;
+	border-style: dotted;
+	border-width: 5px;
+	
+
+}
+#personalInfo{
+	font-size: 30px;
+	text-align: center;
+	
+}
+#name{
+	font-size: 26px;
+	
+}
+#webdev{
+	font-size: 22px;
+}
+#career{
+	text-align: center;
+	font-size: 22px;
+}
+#forCareer{
+	text-align: center;
+	font-size: 20px;
+
+}
+#detailsForMe{
+	font-size: 25px;
+}
+#contact{
+	text-align: center;
+	font-size: 25px;
+}
+#otherpage{
+	text-align: center;
+}
+.table{
+	margin-left: 250px;
+	margin-top: 25px;
+
+}
+.orderedList{
+	font-size: 20px;
+}
+.educAttain{
+	font-size: 20px;
+	margin-top: 50px;
+}
+.backToHomePage1{
+	text-align: right;
+	margin-right: 100px;
+}
+.backToHomePage2{
+	text-align: right;	
+	margin-right: 100px;
+}
+.backToHomePage3{
+	text-align: right;
+	margin-right: 100px;
+}
+.backToHomePage4{
+	text-align: right;
+	margin-right: 100px;
+}
+.backToHomePage5{
+	text-align: right;
+	margin-right: 100px;
+}
